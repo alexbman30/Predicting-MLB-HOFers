@@ -1,6 +1,3 @@
-Baseball Databank is a compilation of historical baseball data in a
-convenient, tidy format, distributed under Open Data terms.
-
 
 Organization of the files
 -------------------------
