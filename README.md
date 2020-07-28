@@ -24,9 +24,6 @@ to predict hall of fame likelihood
 Other sources
 -------------
 
-The Databank is historically based in part on the Lahman Baseball Database, 
-version 2015-01-24, which is Copyright (C) 1996-2015 by Sean Lahman.
-
 The files Suspensions.csv represents all players who received suspensions for PEDs.While the
 investigation.csv shows all players who were investigated for PEDs.
 
