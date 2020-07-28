@@ -20,7 +20,7 @@ to its clients in that it contains less detail, is updated less frequently,
 and is provided on an as-is basis.
 
 
-*'Predicting_Pitchers', 'Predicting_Catchers', and 'Predicting_players' contains the notebook detailing the process followed
+* 'Predicting_Pitchers.ipynb', 'Predicting_Catchers.ipynb', and 'Predicting_players.ipynb' contains the notebook detailing the process followed
 to predict hall of fame likelihood
 
 
