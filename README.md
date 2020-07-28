@@ -1,9 +1,6 @@
 Baseball Databank is a compilation of historical baseball data in a
 convenient, tidy format, distributed under Open Data terms.
 
-This work is licensed under a Creative Commons Attribution-ShareAlike
-3.0 Unported License.  For details see:
-http://creativecommons.org/licenses/by-sa/3.0/
 
 Organisation of the files
 -------------------------
@@ -12,7 +9,6 @@ There are two directories in the repository.
 
 * 'data' contains the databank itself.  If you are a user of the data, these are the
   files you need.
-* 'upstream' contains files used to construct the databank.
 
 Most of the data in the Databank is provided by Chadwick Baseball Bureau
 (http://www.chadwick-bureau.com).  The data differ from the data the Bureau provides
@@ -22,6 +18,7 @@ and is provided on an as-is basis.
 
 * 'Predicting_Pitchers.ipynb', 'Predicting_Catchers.ipynb', and 'Predicting_players.ipynb' contains the notebook detailing the process followed
 to predict hall of fame likelihood
+
 
 
 Other sources
